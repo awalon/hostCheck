@@ -1,0 +1,59 @@
+body {
+	font-family: Arial;
+	font-size: 25px;
+}
+h1 {
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a:visited, a:active {
+	color: black;
+}
+a:hover {
+	color: red;
+}
+img {
+	border: 0;
+}
+caption {
+	display: none;
+}
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th {
+	border: 1px solid black;
+	padding: 8px;
+	font-size: 20px;
+}
+td {
+	border: 1px solid black;
+	padding: 4px 12px;
+}
+img {
+	vertical-align: middle;
+}
+span img {
+	padding-right: 8px;
+}
+div {
+	font-size: 11px;
+}
+.type {
+	vertical-align: top;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.ip_error {
+	color: red;
+	font-weight: bold;
+}
+.ip_warn {
+	color: blue;
+	font-weight: bold;
+}
