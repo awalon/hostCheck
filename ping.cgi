@@ -25,7 +25,7 @@ my $types = {
 			nas     => {idx => 35, img => 'nas.png'},
 			printer => {idx => 40, img => 'printer.png'}, 
 			tv      => {idx => 55, img => 'tv.png'},
-			rpi	    => {idx => 58, img => 'rpi.png'},
+			rpi     => {idx => 58, img => 'rpi.png'},
 			android => {idx => 60, img => 'android.png'},
 			client  => {idx => 60, img => 'client.png'},
 			laptop  => {idx => 58, img => 'laptop.png'},
